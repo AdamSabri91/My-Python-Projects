@@ -4,4 +4,4 @@ count = 0
 for letter in message :
     if letter == chosen_letter:
         count += 1
-print(chosen_letter +" is repeated "+ str(count) +" times")
+print("lowercase "chosen_letter +" is repeated "+ str(count) +" times")
