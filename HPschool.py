@@ -59,7 +59,7 @@ elif answer==answer4 :
     Gryffindor += 4
 else :
     print("Wrong input")
-
+#results
 if Gryffindor>Ravenclaw and Gryffindor>Hufflepuff and Gryffindor>Slytherin :
     print("Your house is Gryffindor.")
 elif Ravenclaw>Gryffindor and Ravenclaw>Hufflepuff and Ravenclaw>Slytherin :
