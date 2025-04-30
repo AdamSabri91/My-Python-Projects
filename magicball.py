@@ -1,3 +1,4 @@
+#foe entertainement purposes only , do noy trust this
 import random
 question = input("Enter your question:")
 answer = random.randint(1, 9)
