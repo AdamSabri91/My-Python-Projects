@@ -1,3 +1,4 @@
+#counts lower case 
 message = str(input("Enter a message : "))
 chosen_letter =str(input("Enter a lowercase letter : "))
 count = 0
