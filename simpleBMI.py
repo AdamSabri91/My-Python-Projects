@@ -1,3 +1,4 @@
+#Stay Healthy
 height = int(input("Enter you height : "))
 weight = int(input("Enter you weight : "))
 BMI = weight / height**2
